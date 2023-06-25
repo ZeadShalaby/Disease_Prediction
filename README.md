@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Disease_Prediction">
-    <img src="https://i.imgur.com/GhWkdFR.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/GhWkdFR.png" alt="Logo" width="200" height="170">
   </a>
   
 <h3 align="center">Disease_Prediction</h3>
@@ -35,10 +35,10 @@
  <img src="https://i.imgur.com/dAtV0Tb.png" alt="project(Login-User)" width="200" height="150">
 </p>
 
- This projects aims to implement a robust machine-learning model that can efficiently predict the disease of a human, based on the symptoms ...
+* This projects aims to implement a robust machine-learning model that can efficiently predict the disease of a human, based on the symptoms ...
 
 
-Disease Prediction is a Machine Learning based system which primarily works according to the symptoms given by a user. The disease is predicted using algorithms and comparison of the datasets with the symptoms provided by the user.
+* Disease Prediction is a Machine Learning based system which primarily works according to the symptoms given by a user. The disease is predicted using algorithms and comparison of the datasets with the symptoms provided by the user.
 
 
 
