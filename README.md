@@ -4,8 +4,6 @@
     <img src="https://i.imgur.com/GhWkdFR.png" alt="Logo" width="150" height="150">
   </a>
   
-
-*vTEtMK3.png*
 <h3 align="center">Disease_Prediction</h3>
 
   <p align="center">
