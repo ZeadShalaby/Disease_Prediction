@@ -2,9 +2,10 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Disease_Prediction">
-    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/c4tXkjt.png" alt="Logo" width="150" height="150">
   </a>
   
+
 
 <h3 align="center">Disease_Prediction</h3>
 
@@ -26,15 +27,15 @@
 ## About The Project
 
 
- <img src="https://i.imgur.com/B24YBw6.png" alt="Logo" width="900" height="500">
+ <img src="https://i.imgur.com/vTEtMK3.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
 
 <p >
- <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="200" height="150">
- <img src="https://i.imgur.com/6Xxnqhv.png" alt="project(Admin)" width="200" height="150">
- <img src="https://i.imgur.com/JE3vHEI.png" alt="project(User)" width="200" height="150">
- <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
+ <img src="https://i.imgur.com/o3M50ah.png" alt="project(Coise-User)" width="200" height="150">
+ <img src="https://i.imgur.com/o3M50ah.png" alt="project(Admin)" width="200" height="150">
+ <img src="https://i.imgur.com/vsAKbLD.png" alt="project(User)" width="200" height="150">
+ <img src="https://i.imgur.com/dAtV0Tb.png" alt="project(Login-User)" width="200" height="150">
 </p>
 
  This projects aims to implement a robust machine-learning model that can efficiently predict the disease of a human, based on the symptoms ...
