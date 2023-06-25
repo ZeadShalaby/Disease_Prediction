@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Disease_Prediction">
-    <img src="https://i.imgur.com/GhWkdFR.png" alt="Logo" width="200" height="170">
+    <img src="https://i.imgur.com/GhWkdFR.png" alt="Logo" width="210" height="170">
   </a>
   
 <h3 align="center">Disease_Prediction</h3>
