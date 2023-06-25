@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Disease_Prediction">
-    <img src="https://i.imgur.com/c4tXkjt.png" alt="Logo" width="150" height="150">
+    <img src="https://i.imgur.com/vTEtMK3.png" alt="Logo" width="150" height="150">
   </a>
   
 
@@ -27,7 +27,7 @@
 ## About The Project
 
 
- <img src="https://i.imgur.com/vTEtMK3.png" alt="Logo" width="900" height="500">
+ <img src="https://i.imgur.com/c4tXkjt.png" alt="Logo" width="900" height="500">
  <br/>
  <br/>
 
